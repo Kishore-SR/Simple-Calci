@@ -21,4 +21,3 @@ This is a basic calculator built as a part of learning JavaScript. It performs s
 
 #### Result
 ![image](https://github.com/user-attachments/assets/40a42a23-9134-48a9-aa13-8430616c38f9)
-"# Simple-Calci" 
